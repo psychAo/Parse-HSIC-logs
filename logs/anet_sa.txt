@@ -1,0 +1,28 @@
+xxx
+yyy
+zzz
+xxxxxx123
+yyyyyy123
+zzzzzz123
+Accuracy: 94.68 +- 0.63
+---
+class acc :
+        Brocoli_green_weeds_1: 99.42 +- 0.71
+        Brocoli_green_weeds_2: 99.28 +- 0.48
+        Fallow: 98.31 +- 1.87
+        Fallow_rough_plow: 98.84 +- 1.05
+        Fallow_smooth: 96.43 +- 2.48
+        Stubble: 98.55 +- 1.72
+        Celery: 99.09 +- 0.85
+        Grapes_untrained: 89.02 +- 1.85
+        Soil_vinyard_develop: 99.51 +- 0.34
+        Corn_senesced_green_weeds: 94.47 +- 2.00
+        Lettuce_romaine_4wk: 96.62 +- 1.99
+        Lettuce_romaine_5wk: 99.60 +- 0.22
+        Lettuce_romaine_6wk: 96.28 +- 5.42
+        Lettuce_romaine_7wk: 96.51 +- 4.38
+        Vinyard_untrained: 86.65 +- 1.84
+        Vinyard_vertical_trellis: 96.13 +- 2.17
+---
+AA: 96.54 +- 0.60
+Kappa: 94.08 +- 0.70

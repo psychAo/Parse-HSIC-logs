@@ -1,0 +1,28 @@
+xxx
+yyy
+zzz
+xxxxxx123
+yyyyyy123
+zzzzzz123
+Accuracy: 2.69 +- 11.32
+---
+class acc :
+        Alfalfa: 74.15 +- 12.11
+        Corn-notill: 75.94 +- 3.87
+        Corn-mintill: 81.18 +- 5.25
+        Corn: 57.75 +- 8.82
+        Grass-pasture: 84.97 +- 3.80
+        Grass-trees: 96.35 +- 1.84
+        Grass-pasture-mowed: 77.60 +- 19.03
+        Hay-windrowed: 97.81 +- 2.09
+        Oats: 32.22 +- 11.33
+        Soybean-notill: 77.71 +- 2.05
+        Soybean-mintill: 84.94 +- 3.94
+        Soybean-clean: 73.93 +- 3.37
+        Wheat: 92.43 +- 3.47
+        Woods: 96.08 +- 0.40
+        Buildings-Grass-Trees-Drives: 72.10 +- 5.96
+        Stone-Steel-Towers: 81.43 +- 17.73
+---
+AA: 78.54 +- 21.25
+Kappa: 81.38 +- 1.49
